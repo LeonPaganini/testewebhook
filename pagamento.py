@@ -14,7 +14,7 @@ def gerar_link_pagamento():
                 "unit_price": 0.50
             }
         ],
-        "notification_url": "https://webhook-nutri.onrender.com/webhook",
+        "notification_url": "https://testewebhook-gnjr.onrender.com/webhook",
         "external_reference": "teste123",
         "binary_mode": True
     }
